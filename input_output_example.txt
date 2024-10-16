@@ -1,0 +1,147 @@
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 1
+File name: constit.txt
+
+Kjördæmi            Á kjörskrá
+------------------------------
+Reykjavík suður          45725
+Reykjavík norður         45638
+Suðvestur                73729
+Suður                    38424
+Norðaustur               29887
+Norðvestur               21548
+------------------------------
+Heild:                  254951
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 1
+
+Kjördæmi            Á kjörskrá
+------------------------------
+Reykjavík suður          45725
+Reykjavík norður         45638
+Suðvestur                73729
+Suður                    38424
+Norðaustur               29887
+Norðvestur               21548
+------------------------------
+Heild:                  254951
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 2
+File name: bla.txt
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 2
+File name: parties.txt
+
+Listi                    Flokkur
+--------------------------------
+D          Sjálfstæðisflokkurinn
+B           Framsóknarflokkurinn
+V                   Vinstri græn
+S                   Samfylkingin
+F               Flokkur fólksins
+P                        Píratar
+C                       Viðreisn
+M                  Miðflokkurinn
+J      Sósíalistaflokkur Íslands
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 2
+
+Listi                    Flokkur
+--------------------------------
+D          Sjálfstæðisflokkurinn
+B           Framsóknarflokkurinn
+V                   Vinstri græn
+S                   Samfylkingin
+F               Flokkur fólksins
+P                        Píratar
+C                       Viðreisn
+M                  Miðflokkurinn
+J      Sósíalistaflokkur Íslands
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 3
+File name: results.txt 
+Constituency: Reykjavík norður
+
+Reykjavík norður
+Listi                        Flokkur   Atkvæði  Hlutfall
+--------------------------------------------------------
+D              Sjálfstæðisflokkurinn      7353      21.1
+V                       Vinstri græn      5597      16.1
+P                            Píratar      4508      12.9
+S                       Samfylkingin      4427      12.7
+B               Framsóknarflokkurinn      4329      12.4
+C                           Viðreisn      2706       7.8
+F                   Flokkur fólksins      2694       7.7
+J          Sósíalistaflokkur Íslands      1976       5.7
+M                      Miðflokkurinn      1234       3.5
+--------------------------------------------------------
+Heild:                                   34824     100.0
+Kjörsókn:                                           76.3
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 3
+Constituency: Norðaustur
+
+Norðaustur
+Listi                        Flokkur   Atkvæði  Hlutfall
+--------------------------------------------------------
+B               Framsóknarflokkurinn      6016      25.6
+D              Sjálfstæðisflokkurinn      4346      18.5
+V                       Vinstri græn      3040      13.0
+S                       Samfylkingin      2465      10.5
+M                      Miðflokkurinn      2092       8.9
+F                   Flokkur fólksins      2026       8.6
+C                           Viðreisn      1263       5.4
+P                            Píratar      1256       5.4
+J          Sósíalistaflokkur Íslands       954       4.1
+--------------------------------------------------------
+Heild:                                   23458     100.0
+Kjörsókn:                                           78.5
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 3
+Constituency: bla
+
+1. Show constituencies
+2. Show parties
+3. Show results
+9. Quit
+
+Select an action: 9
